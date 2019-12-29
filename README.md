@@ -8,12 +8,8 @@ The final Three JS project
 Please use HTTP Server like Apache for create local host OR fix cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https on Google Chrome, Mozila Firefox, Opera and stuff.
 We didn't see this error on Microsoft Edge.
 ## Developers
-###Hossein Motamen
-###Mahdi Nasiri
-###Mahdi Yasini
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+- Hossein Motamen
++ Mahdi Nasiri
+! Mahdi Yasini
 ```
