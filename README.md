@@ -12,4 +12,5 @@ We didn't see this error on Microsoft Edge.
 + Hossein Motamen
 + Mahdi Nasiri
 + Mahdi Yasini
++ Sina Rahimian (limited on exercises)
 ```
