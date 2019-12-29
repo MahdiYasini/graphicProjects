@@ -9,7 +9,7 @@ Please use HTTP Server like Apache for create local host OR fix cross origin req
 We didn't see this error on Microsoft Edge.
 ## Developers
 ```diff
-- Hossein Motamen
-+ Mahdi Nasiri
+! Hossein Motamen
+! Mahdi Nasiri
 ! Mahdi Yasini
 ```
