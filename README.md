@@ -10,6 +10,6 @@ We didn't see this error on Microsoft Edge.
 ## Developers
 ```diff
 ! Hossein Motamen
-! Mahdi Nasiri
-! Mahdi Yasini
++ Mahdi Nasiri
+- Mahdi Yasini
 ```
