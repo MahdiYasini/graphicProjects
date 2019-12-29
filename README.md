@@ -9,8 +9,7 @@ Please use HTTP Server like Apache for create local host OR fix cross origin req
 We didn't see this error on Microsoft Edge.
 ## Developers
 ```diff
-! Hossein Motamen
++ Hossein Motamen
 + Mahdi Nasiri
-- Mahdi Yasini
++ Mahdi Yasini
 ```
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
