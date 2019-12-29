@@ -11,3 +11,9 @@ We didn't see this error on Microsoft Edge.
 ###Hossein Motamen
 ###Mahdi Nasiri
 ###Mahdi Yasini
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
