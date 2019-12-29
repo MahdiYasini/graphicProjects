@@ -1,5 +1,5 @@
 # graphicProjects
-This Repository has ThreeJS and WebGl projects and exercises.
+All rights reserved to developers, and unlawful publishing is considered a crime.
 ## Tamrin 
 They are WebGl and Three JS exercises.
 ## _project
