@@ -1,5 +1,5 @@
 # graphicProjects
-This Repository has ThreeJS and WebGl projects and exercises.
+Collection of graphic exercises and final project
 ## Tamrin 
 They are WebGl and Three JS exercises.
 ## _project
@@ -12,4 +12,5 @@ We didn't see this error on Microsoft Edge.
 + Hossein Motamen
 + Mahdi Nasiri
 + Mahdi Yasini
++ Sina Rahimian (limited on exercises)
 ```
